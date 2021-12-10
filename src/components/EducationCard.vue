@@ -3,11 +3,6 @@
     class="mb-5"
     color="transparent"
   >
-    <v-row<template>
-  <v-sheet
-    class="mb-5"
-    color="transparent"
-  >
     <v-row class="mx-0">
       <v-sheet
         class="mr-3"

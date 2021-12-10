@@ -16,24 +16,6 @@ const router = new Router({
 })
 
 // Bootstrap Analytics
-import Vue from 'vue'
-import Router from 'vue-router'
-
-Vue.use(Router)
-
-const router = new Router({
-  mode: 'history',
-  base: process.env.BASE_URL,
-  routes: [
-    {
-      path: '/',
-      name: 'Home',
-      component: () => import('@/views/Home'),
-    },
-  ],
-})
-
-// Bootstrap Analytics
 // Set in .env
 // https://github.com/MatteoGabriele/vue-analytics
 if (process.env.VUE_APP_GOOGLE_ANALYTICS) {

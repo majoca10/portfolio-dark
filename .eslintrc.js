@@ -1,7 +1,3 @@
-node_modules
-dist
-alpha-core
-lib
 module.exports = {
   root: true,
   env: {
@@ -17,7 +13,7 @@ module.exports = {
   ],
   rules: {
     // allow paren-less arrow functions
-    'arrow-parens': ['error', 'as-needed'],
+    //'arrow-parens': ['error', 'as-needed'],
     // set maximum line characters
     'max-statements': ['error', 24],
     quotes: ['error', 'single', {

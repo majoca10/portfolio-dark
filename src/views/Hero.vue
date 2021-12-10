@@ -5,13 +5,6 @@
       height="100vh"
     ></v-img>
       <v-row
-        :justify="$vueti<template>
-  <section id="hero">
-    <v-img
-      :src="require('@/assets/shirt.jpg')"
-      height="100vh"
-    ></v-img>
-      <v-row
         :justify="$vuetify.breakpoint.mdAndUp ? 'end' : undefined"
         align="end"
         class="fill-height text-right pa-md-5 pa-3 mx-0"

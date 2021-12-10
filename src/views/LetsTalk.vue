@@ -29,37 +29,6 @@
           label="Name"
         />
 
-        <<template>
-  <core-section id="lets-talk">
-    <core-heading>Let's talk.</core-heading>
-
-    <v-col
-      cols="12"
-      md="5"
-      class="mb-4 pr-md-5"
-    >
-      <core-subheading class="text-uppercase">
-        What can I do for you?
-      </core-subheading>
-
-      <core-text class="mb-5">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Fusce vel est interdum, pharetra magna ac, facilisis ante.
-        Fusce eu finibus magna. Sest interdum, pharetra magna ac, facilisis ante.
-        Fusce eu finibus magna.
-      </core-text>
-
-      <core-subheading class="text-uppercase mb-3">
-        Send me a Message
-      </core-subheading>
-
-      <v-form>
-        <v-text-field
-          solo-inverted
-          flat
-          label="Name"
-        />
-
         <v-text-field
           solo-inverted
           flat
