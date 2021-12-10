@@ -1,0 +1,194 @@
+{
+  "basics": {
+    "name": "Dayana Jimenez",
+    "name2": "Luis Colmenares",
+    "label": "Crowdfunding",
+    "picture": "",
+    "email": "luiscolmenares_18@hotmail.com",
+    "phone": "(912) 555-4321",
+    "website": "https://storedaluz.online",
+    "summary": "La visión d{
+  "basics": {
+    "name": "Dayana Jimenez",
+    "name2": "Luis Colmenares",
+    "label": "Crowdfunding",
+    "picture": "",
+    "email": "luiscolmenares_18@hotmail.com",
+    "phone": "(912) 555-4321",
+    "website": "https://storedaluz.online",
+    "summary": "La visión de crear Daluz nace en el año 2020 a inicios de la pandemia, con la perdida de 5 meses de nuestro primer hijo, en medio de la tristeza y la confusión por la perdida, nos llegó a mi esposa y a mi la inspiración de crear una marca de ropa que de un mensaje de esperanza, corto y conciso, en gorras camisas, franelas, suéter, chemise, bolsos, zapatos, deseamos que cada madre, padre, hijo, hermano, tenga ese mensaje de Fe. A pesar de las adversidades, conflictos y pruebas que nos pueda dar el día a día, que por medio de cada prenda puedan Luz y dar Luz a Otros.!",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "john",
+        "url": "https://twitter.com/john"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "john",
+        "url": "https://linkedin.com/john"
+      },
+      {
+        "network": "Github",
+        "username": "john",
+        "url": "https://github.com/john"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Montó: 25$ ",
+      "position": "President",
+      "website": "http://company.com",
+      "startDate": "Montó: 25$",
+      "summary": "Cantidad: 50 personas Recompensa: 2 camisas + reconocimiento de la marca Envío: a nivel internacional"
+    },
+    {
+      "company": "Montó: 50$",
+      "position": "District Manager",
+      "website": "http://company.com",
+      "startDate": "Montó: 50$",
+      "summary": "Cantidad: 30 personas Recompensa: 2 camisas + reconocimiento + gorra de la marca" 
+    },
+    {
+      "company": "Montó: 100$",
+      "position": "Store Manager",
+      "website": "http://company.com",
+      "startDate": "Montó: 100$",
+      "summary": "Cantidad: 35 Recompensa: 3  camisas + reconocimiento + 1 gorra de la marca"
+    },
+    {
+      "company": "Montó: 200$",
+      "position": "Electrical Engineering intern",
+      "website": "http://company.com",
+      "startDate": "Montó: 200$",
+      "summary": "Cantidad: 35 Recompensa: 4camisas + 2gorras + 1 suéter + reconocimiento por la la empresa"
+    },
+    {
+      "company": "Montó: 500$",
+      "position": "Electrical Engineering intern",
+      "website": "http://company.com",
+      "startDate": "Montó: 500$",
+      "summary": "Cantidad: 25 Recompensa: 4 camisas+ reconocimiento+ 2gorras + 3 suéter de la marca"
+    },
+    {
+      "company": "Montó: 1000$",
+      "position": "Electrical Engineering intern",
+      "website": "http://company.com",
+      "startDate": "Montó: 1000$",
+      "summary": "Cantidad: 15 Recompensa: 8 camisas + reconocimiento+ 4gorras + 4 suéter de la marca"
+    }
+  ],
+  "education": [
+    {
+      "institution": "State University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2013-01-01",
+      "endDate": "2017-01-01",
+      "gpa": "4.0",
+      "courses": [
+        "Computer Sciences"
+      ]
+    },
+    {
+      "institution": "Community College",
+      "area": "Completion",
+      "studyType": "Certificate",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "gpa": "3.2",
+      "courses": [
+        "Modern Logo Design"
+      ]
+    },
+    {
+      "institution": "Community College",
+      "area": "Science",
+      "studyType": "Associate",
+      "startDate": "2010-01-01",
+      "endDate": "2012-01-01",
+      "gpa": "3.4",
+      "courses": [
+        "Graphic Design"
+      ]
+    },
+    {
+      "institution": "Community College",
+      "area": "Completion",
+      "studyType": "Certificate",
+      "startDate": "2010-01-01",
+      "endDate": "2010-01-01",
+      "gpa": "3.1",
+      "courses": [
+        "Marketing"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Graphics/Media",
+      "level": 5,
+      "keywords": [
+        "Photoshop",
+        "Illustrator",
+        "Fireworks",
+        "InDesign",
+        "After Effects"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": 6,
+      "keywords": [
+        "Javascript",
+        "PHP/MYSQL",
+        "jQuery",
+        "HTML5/CSS3"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": 4,
+      "keywords": [
+        "Graphic Design",
+        "Marketing",
+        "Web Design",
+        "Logo Design"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor. Lorem ipsum dolor sit amet consectetur adipisicing elit, eiusmod tempor. Proin luctus nulla elit, vitae varius massa.Etiam massa sapien, ultricies quis enim at, tempor fringilla metus. Nulla rhoncus enim sed consectetur. Mauris et eros feugiat, tincidunt eget, dictum neque. Maecenas dapibus sodales magna, eget lectus vehicula non."
+      ]
+    },
+    {
+      "name": "Design",
+      "keywords": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor. Lorem ipsum dolor sit amet consectetur adipisicing elit, eiusmod tempor. Proin luctus nulla elit, vitae varius massa.Etiam massa sapien, ultricies quis enim at, tempor fringilla metus. Nulla rhoncus enim sed consectetur. Mauris et eros feugiat, tincidunt eget, dictum neque. Maecenas dapibus sodales magna, eget lectus vehicula non."
+      ]
+    },
+    {
+      "name": "Marketing",
+      "keywords": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor. Lorem ipsum dolor sit amet consectetur adipisicing elit, eiusmod tempor. Proin luctus nulla elit, vitae varius massa.Etiam massa sapien, ultricies quis enim at, tempor fringilla metus. Nulla rhoncus enim sed consectetur. Mauris et eros feugiat, tincidunt eget, dictum neque. Maecenas dapibus sodales magna, eget lectus vehicula non."
+      ]
+    },
+    {
+      "name": "Support",
+      "keywords": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor. Lorem ipsum dolor sit amet consectetur adipisicing elit, eiusmod tempor. Proin luctus nulla elit, vitae varius massa.Etiam massa sapien, ultricies quis enim at, tempor fringilla metus. Nulla rhoncus enim sed consectetur. Mauris et eros feugiat, tincidunt eget, dictum neque. Maecenas dapibus sodales magna, eget lectus vehicula non."
+      ]
+    }
+  ]
+}
